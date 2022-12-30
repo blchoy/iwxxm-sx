@@ -1,8 +1,8 @@
 # IWXXM
 
-IWXXM (the ICAO Meteorological Information Exchange Model) is a data format for reporting aviation weather information in XML/GML, and is specified in both XML Schema and Schematron.
+IWXXM (ICAO Meteorological Information Exchange Model) describes representations of aviation weather information as well as containers of ordered representations for exchange especially over the System Wide Information Management (SWIM) environment.
 
-IWXXM includes XML/GML-based representations for products standardized in International Civil Aviation Organization (ICAO) Annex III and World Meteorological Organization (WMO) No.49, Vol II, such as METAR/SPECI, TAF, SIGMET, AIRMET, Tropical Cyclone Advisory, Volcanic Ash Advisory, Space Weather Advisory and WAFS Significant Weather Forecast. IWXXM products are used for operational exchanges of meteorological information for use in aviation.
+Currently IWXXM includes XML/GML-based representations for products standardized in International Civil Aviation Organization (ICAO) Annex III and World Meteorological Organization (WMO) No.49, Vol II, such as METAR/SPECI, TAF, SIGMET, AIRMET, Tropical Cyclone Advisory, Volcanic Ash Advisory, Space Weather Advisory and WAFS Significant Weather Forecast.
 
 Unlike the traditional forms of the ICAO Annex III / WMO No. 49 products (referred to as Traditional Alphanumeric Codes, or TAC), IWXXM is not intended to be directly used by pilots. IWXXM is designed to be consumed by software acting on behalf of pilots, such as display software.
 
